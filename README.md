@@ -5,7 +5,7 @@ Data analysis and visualization of Poland's 2022 World Cup stats, built with R a
 Statistical deep dive into Poland's national team performance during the 2022 World Cup in Qatar, built entirely in **R**.
 
 ## 🚀 Live Preview
-**[👉 Click here to view the full interactive report 👈](https://piotrd19.github.io/Data-analysis-and-visualization-in-R/)**
+**[👉 Click here to view the full interactive report 👈](https://piotrd19.github.io/Data-analysis-and-visualization-in-R/final_project.html)**
 
 ## 📊 Key Insights
 * **Defensive Focus:** Analysis of goalkeeper performance and defensive formations.
